@@ -7,23 +7,23 @@
         "API_HASH": {
             "description": "API Hash",
             "required": true,
-            "value": ""
+            "value": "88c32b2452be7c00922df5ed06b93e55"
         },"API_ID": {
             "description": "API ID",
             "required": true,
-            "value": ""
+            "value": "19805902"
         },"BOT_TOKEN": {
             "description": "Bot Token",
             "required": true,
-            "value": ""
+            "value": "5203083527:AAGdPXlHoDOP2qFOY_PicWAC_OaHzs7iieU"
         },"AUTH_IDS": {
             "description": "Auth IDs",
             "required": true,
-            "value": ""
+            "value": "1970346507"
         },"ADMIN_IDS": {
             "description": "Admin IDs",
             "required": true,
-            "value": ""
+            "value": "1970346507"
         }
     },
     "buildpacks": [
