@@ -15,7 +15,7 @@
         },"BOT_TOKEN": {
             "description": "Bot Token",
             "required": true,
-            "value": "5203083527:AAGdPXlHoDOP2qFOY_PicWAC_OaHzs7iieU"
+            "value": ""
         },"AUTH_IDS": {
             "description": "Auth IDs",
             "required": true,
@@ -23,7 +23,7 @@
         },"ADMIN_IDS": {
             "description": "Admin IDs",
             "required": true,
-            "value": "cardingninjaa"
+            "value": ""
         }
     },
     "buildpacks": [
